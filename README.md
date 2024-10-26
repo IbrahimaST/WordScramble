@@ -1,5 +1,3 @@
-# WordScramble
-
 <h1 align="center">WordScramble</h1> 
 
 <p>Welcome to WordScramble, an engaging word game where players are challenged to create as many words as possible from a randomly selected eight-letter word. For instance, given the word "alarming," players might find words like "alarm," "ring," "main," and many others by reordering the provided letters. Test your vocabulary, get creative, and see how many words you can find!
